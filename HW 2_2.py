@@ -1,0 +1,10 @@
+print("    ", end="*")
+print("   * ", end="*")
+print("  *   ", end="*")
+print(" *     ", end="*")
+print("***   **", end="*")
+print("  *   ", end="*")
+print("  *   ", end="*")
+print("  ****", end="*")
+
+print(4*" ", 3*" ", 2*" ", " ", 2*"*", 2*" ", 2*" ", sep="*\n", end=3*"*")
