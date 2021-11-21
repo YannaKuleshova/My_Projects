@@ -1,5 +1,10 @@
-# import calendar
+#########################
+#Author: Kuleshova Yana
+#Date: 21/11/2021
+#Task: 4_2
+#########################
 
+# Определение функции по вычислению высокосного года
 def is_year_leap (year):
     year = int(input("Введите год: "))
 
