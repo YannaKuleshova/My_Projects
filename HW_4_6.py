@@ -1,3 +1,9 @@
+#########################
+#Author: Kuleshova Yana
+#Date: 21/11/2021
+#Task: 4_6
+#########################
+
 def liters_100km_to_miles_gallon(liters):
     american_mile = 1609.344
     american_gallon = 3.785411784
