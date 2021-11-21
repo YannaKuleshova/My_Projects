@@ -1,3 +1,9 @@
+#########################
+#Author: Kuleshova Yana
+#Date: 21/11/2021
+#Task: 4_1
+#########################
+
 # Определение функции
 def calculate():
     chioce = input('''
